@@ -1,6 +1,6 @@
 # PhoenixGuardian
 
-[![Build Status](https://travis-ci.org/hassox/phoenix_guardian.svg?branch=ueberauth-guardian)](https://travis-ci.org/hassox/phoenix_guardian)
+[![Build Status](https://travis-ci.org/kelostrada/phoenix_guardian.svg?branch=ueberauth-guardian)](https://travis-ci.org/hassox/phoenix_guardian)
 
 Provides an example implementation for authentication in Phoenix applications
 using Überauth and Guardian.
